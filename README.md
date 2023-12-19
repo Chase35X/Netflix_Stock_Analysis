@@ -7,5 +7,4 @@ In specific the question being asked is "Do movie/tv show ratings released on Ne
 The analysis and results are shown in the presentation pdf file.
 
 Databases used:
-https://finance.yahoo.com/quote/NFLX/
-https://www.kaggle.com/datasets/imtkaggleteam/netflix
+https://finance.yahoo.com/quote/NFLX/ & https://www.kaggle.com/datasets/imtkaggleteam/netflix
